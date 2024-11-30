@@ -1,0 +1,13 @@
+The UserInputValidator class validate and process user input.
+
+It includes the following methods:
+
+1. validate_positive_integers:
+   - Accepts a list of strings and checks whether each string represents a valid positive integer.
+   - Returns a list of valid positive integers.
+
+2. display_message:
+   - Accepts a list of strings and performs validation using the validate_positive_integers method.
+   - Displays a message with the result of the validation.
+   
+   
